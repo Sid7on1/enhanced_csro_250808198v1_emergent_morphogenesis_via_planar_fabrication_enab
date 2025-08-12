@@ -1,0 +1,8 @@
+{
+  "from": "coder1",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for requirements.txt after 3 attempts",
+  "details": {},
+  "timestamp": "2025-08-12T19:22:07.732863"
+}
